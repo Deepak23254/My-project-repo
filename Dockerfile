@@ -1,2 +1,2 @@
-FROM busybox
-CMD echo "Hello world!"
+FROM ubuntu:latest
+CMD echo "Hello Deepak!"
